@@ -30,5 +30,5 @@ mvn spring-boot:run
 Para rodar em outra porta HTTP:
 
 ```
-mvn spring-boot:run --server.port=20000
+mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=20000
 ```

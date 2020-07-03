@@ -2,6 +2,8 @@
 *.class
 target/
 
+.vscode/
+.project
 # Log file
 *.log
 
